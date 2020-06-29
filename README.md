@@ -20,4 +20,6 @@ npm start
 
 
 <hr>
-Copyright © 2020, Jonas Dorfinger. This application is [MIT licensed](https://github.com/dorfingerjonas/leonie-weather/blob/master/LICENSE)
+
+<center>Copyright © 2020, Jonas Dorfinger.</center>
+<center>This application is <a href="https://github.com/dorfingerjonas/leonie-weather/blob/master/LICENSE">MIT licensed</a>
