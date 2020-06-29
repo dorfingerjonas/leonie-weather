@@ -6,7 +6,7 @@
 
 At first you need to create your own [OpenWeather](https://openweathermap.org/) api-key and copy the key into `weatherapi.json`.
 
-The ``MQTT`` client is connected to ``mqtt://leonie.htl-leonding.ac.at`` and subscribes to ``/t/weather``. ```MQTT`` message should contain a ``JSON`` property called ``city``.
+The ``MQTT`` client is connected to ``mqtt://leonie.htl-leonding.ac.at`` and subscribes to ``/t/weather``. ``MQTT`` message should contain a ``JSON`` property called ``city``.
 
 ```json
 {
