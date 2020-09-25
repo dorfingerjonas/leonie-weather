@@ -19,6 +19,6 @@
   "homepage": "https://github.com/dorfingerjonas/leonie-weather#readme",
   "dependencies": {
     "mqtt": "^4.1.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
